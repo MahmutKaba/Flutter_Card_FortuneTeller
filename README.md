@@ -1,16 +1,24 @@
-# falbak
+# Fortune Teller
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Flutter project is a starting point for **margin settings**.
 
-A few resources to get you started if this is your first Flutter project:
+## Using
+- Image Assets
+- Functions
+- Expanded
+- List
+- ListTile
+- Card
+- Theme
+- sizedBox
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+### Mahmut KABA
+
+[Linkedin](https://www.linkedin.com/in/mahmut-kaba-8ab997253/)
+
